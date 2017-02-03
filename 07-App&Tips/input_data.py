@@ -1,3 +1,4 @@
+# https://github.com/aymericdamien/TensorFlow-Examples/blob/master/input_data.py [ 원본 URL ]
 
 """Functions for downloading and reading MNIST data."""
 from __future__ import print_function
